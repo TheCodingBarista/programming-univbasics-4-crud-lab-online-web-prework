@@ -3,12 +3,12 @@ def create_an_empty_array
 end
 
 def create_an_array
-  ruby_vocab = ["arrays", "hashes", "strings", "methods"]
+  ruby_vocab = ["elements", "hashes", "strings", "methods"]
 end
 
 def add_element_to_end_of_array(array, element)
   ruby_array = ["arrays", "hashes", "strings", "methods"]
-  ruby_element = "elements"
+  ruby_element = "arrays!"
   ruby_array << "elements"
 end
 

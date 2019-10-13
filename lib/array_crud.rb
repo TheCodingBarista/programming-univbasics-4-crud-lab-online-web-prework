@@ -20,7 +20,7 @@ end
 
 def remove_element_from_end_of_array(array)
   ruby_array = ["I", "am", "really", "learning", "arrays!"]
-  ruby_element = ruby_vocab.pop
+  ruby_element = ruby_array.pop
 end
 
 def remove_element_from_start_of_array(array)

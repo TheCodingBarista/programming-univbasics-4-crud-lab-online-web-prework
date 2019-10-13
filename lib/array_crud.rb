@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   ruby_array = ["arrays", "hashes", "strings", "methods"]
   ruby_element = "elements"
-  ruby_element << "elements"
+  ruby_array << "elements"
 end
 
 def add_element_to_start_of_array(array, element)

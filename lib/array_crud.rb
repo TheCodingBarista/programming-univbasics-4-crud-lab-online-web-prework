@@ -7,9 +7,9 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  ruby_vocab = ["arrays", "hashes", "strings", "methods"]
+  ruby_array = ["arrays", "hashes", "strings", "methods"]
   
-  ruby_vocab << "elements"
+  ruby_element << "elements"
   
   p ruby_vocab
 end

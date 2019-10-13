@@ -43,5 +43,5 @@ def retrieve_last_element_from_array(array)
 end
 
 def update_element_from_index(array, index_number, element)
-ruby_array = ["wow", "I", "am", "really", "learning", "arrays!"]
+  ruby_array = ["wow", "I", "am", "really", "learning", "arrays!"]
 end
